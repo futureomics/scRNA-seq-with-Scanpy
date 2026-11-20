@@ -303,5 +303,3 @@ Developed as a computational bioinformatics workflow for single-cell transcripto
 The channel focuses on simplified bioinformatics and omics tutorials for students, researchers, and life-science learners.
 
 
-<img width="1536" height="1024" alt="Single-Cell RNA-seq Analysis Infographic" src="https://github.com/user-attachments/assets/a4f069dd-6708-45b3-aafe-45b502663362" />
-
