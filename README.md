@@ -1,7 +1,4 @@
 # scRNA-seq-with-Scanpy
-scRNA-seq with Scanpy Analysis
-
-It covers the GSE150728 dataset, Google Colab implementation, Scanpy preprocessing, Leiden clustering, pseudobulk aggregation and DESeq2 differential expression analysis.
 
 # GSE150728: Single-Cell RNA-seq Analysis Using Scanpy and DESeq2
 
